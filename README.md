@@ -38,13 +38,9 @@ Are you gearing up for a MariaDB upgrade? Ensure a smooth transition with our la
 Run the Python code.
 Input your hostname, username, password, and target versions.
 You're all set!
-📅 End of Support Dates:
+📅 End of Support :
 
-MariaDB 10.4: Support ends June 2024
-MariaDB 10.5: Support ends June 2025
-MariaDB 10.11: Support ends January 2027
 Upgrade smarter, not harder. Check it out now! 🙌
 
 For more details, visit: AWS MariaDB Version Management
 
-#MariaDB #DatabaseUpgrade #Python #TechInnovation #DevTools
