@@ -40,7 +40,5 @@ Input your hostname, username, password, and target versions.
 You're all set!
 📅 End of Support :
 
-Upgrade smarter, not harder. Check it out now! 🙌
-
-For more details, visit: AWS MariaDB Version Management
+Upgrade smarter, not harder. Check it out now!
 
