@@ -38,7 +38,7 @@ Are you gearing up for a MariaDB upgrade? Ensure a smooth transition with our la
 Run the Python code.
 Input your hostname, username, password, and target versions.
 You're all set!
-📅 End of Support :
+
 
 Upgrade smarter, not harder. Check it out now!
 
